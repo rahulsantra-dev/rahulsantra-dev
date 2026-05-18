@@ -27,8 +27,9 @@
 
 ### 📫 Let's Connect
 - **LinkedIn:** [rahulsantra-bbditm](https://www.linkedin.com/in/rahulsantra-bbditm)
-- * **Discord:** [thunderblazestorm](https://discord.com/users/thunderblazestorm)
+- **Discord:** [thunderblazestorm](https://discord.com/users/thunderblazestorm)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rahulsantra-dev&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
-</p>
+---
+
+### 📊 GitHub Analytics
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsantra-dev&show_icons=true&theme=tokyonight)
